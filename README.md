@@ -1,7 +1,7 @@
 # Dagger2-Android-Kotlin
-I will demonstrate how dagger works 
+I will demonstrated how dagger-2 works 
 
-Here i have demonstarted 
+Here i have implemented 
 1. Component
 2. Modules
 3. Provide
